@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amMarius
-- I’m interested in computer sience.
-- I’m currently learning Python.
+- I don't know what I am doing, I'm just looking around GitHub to find intresting stuff.
 
 <!---
 amMarius/amMarius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
